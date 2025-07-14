@@ -8,8 +8,10 @@
 
 ## About Me
 
-Hello! I'm Ramadani, a dedicated Full Stack Web Developer passionate about building modern, efficient, and reliable web applications.
-I specialize in technologies like Laravel & Node.js, and take pride in crafting beautiful frontends using JavaScript, Bootstrap, and modern frameworks like Tailwind.
+Hello! I'm **Ramadani**, a dedicated _Full Stack Web Developer_ passionate about building modern, efficient, and reliable web applications.
+
+I specialize in technologies like **Laravel** & **Node.js**, and take pride in crafting beautiful frontends using **JavaScript**, **Bootstrap**, and modern frameworks like **Tailwind CSS**.
+
 ---
 
 ## Tech Stack & Skills
