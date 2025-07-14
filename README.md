@@ -43,20 +43,16 @@ I specialize in technologies like **Laravel** & **Node.js**, and take pride in c
 <p align="center"><i>Tools & technologies I use to build clean, scalable, and modern web applications</i></p>
 
 ---
-
-## GitHub Stats
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 <div align="center">
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramadani16&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <!-- GitHub Streak -->
-  <img height="180em" src="https://github-streak-stats.demolab.com/?user=Ramadani16&theme=dark&date_format=j%20M%5B%20Y%5D&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFD700&currStreakLabel=FFD700&background=0D1117" alt="GitHub Streak" />
+### GitHub Stats
 
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadani16&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ramadani16&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" height="180px" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ramadani16&theme=dark&date_format=j%20M%5B%20Y%5D&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFD700&currStreakLabel=FFD700&background=0D1117" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadani16&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" height="180px" />
+
 </div>
+
 
 
 ---
