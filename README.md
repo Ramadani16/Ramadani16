@@ -50,7 +50,19 @@ I specialize in technologies like **Laravel** & **Node.js**, and take pride in c
 <div align="center">
   <a href="https://github.com/Ramadani16">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramadani16&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramadani16&theme=dark&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700" alt="GitHub Streak"/>
+<img height="180em" 
+  src="https://streak-stats.demolab.com/?user=Ramadani16
+  &theme=dark
+  &background=0D1117
+  &fire=FFD700
+  &currStreakNum=FFFFFF
+  &sideNums=FFD700
+  &currStreakLabel=FFD700
+  &sideLabels=FFD700
+  &dates=9599A6
+  &border=FFD70030
+  &date_format=j+M[+Y]" 
+  alt="GitHub Streak"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadani16&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
   </a>
 </div>
