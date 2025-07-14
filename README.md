@@ -54,7 +54,7 @@ I specialize in technologies like **Laravel** & **Node.js**, and take pride in c
 
   <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=4000&pause=1000&color=8E20E4&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Ramadani%3B" alt="Typing Animation" />
+  <img src="https://github-streak-stats.demolab.com/?user=Ramadani16&theme=dark&date_format=j%20M%5B%20Y%5D&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFD700&currStreakLabel=FFD700&background=0D1117" alt="GitHub Streak" />
 </div>
 
   <!-- Top Languages -->
