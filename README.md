@@ -11,6 +11,7 @@ Hello! I'm Ramadani, a dedicated Full Stack Web Developer passionate about build
 I specialize in technologies like Laravel & Node.js, and take pride in crafting beautiful frontends using JavaScript, Bootstrap, and modern frameworks like Tailwind.I believe technology is a tool for creating solutions, not just writing code.
 Always eager to learn and open to collaborations and open-source exploration!
 ---
+
 ## Tech Stack & Skills
 
 <p align="center">
