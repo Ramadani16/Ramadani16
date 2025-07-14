@@ -1,6 +1,6 @@
 <!-- Dynamic Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=28&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ramadani;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ramadani;" alt="Typing Animation" />
 </div>
 
 
