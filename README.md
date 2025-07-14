@@ -40,6 +40,7 @@ I specialize in technologies like **Laravel** & **Node.js**, and take pride in c
 
 <p align="center"><i>Tools & technologies I use to build clean, scalable, and modern web applications</i></p>
 
+---
 
 ## GitHub Stats
 
