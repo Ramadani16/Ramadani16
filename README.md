@@ -7,6 +7,7 @@
 ---
 
 ## About Me
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 Hello! I'm **Ramadani**, a dedicated _Full Stack Web Developer_ passionate about building modern, efficient, and reliable web applications.
 
@@ -15,6 +16,7 @@ I specialize in technologies like **Laravel** & **Node.js**, and take pride in c
 ---
 
 ## Tech Stack & Skills
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <p align="center">
   <!-- PHP & Laravel -->
@@ -43,6 +45,7 @@ I specialize in technologies like **Laravel** & **Node.js**, and take pride in c
 ---
 
 ## GitHub Stats
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
   <a href="https://github.com/Ramadani16">
@@ -55,6 +58,7 @@ I specialize in technologies like **Laravel** & **Node.js**, and take pride in c
 ---
 
 ## Let's Connect
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <div align="center">
   <a href="https://linkedin.com/in/Ramadani_">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
