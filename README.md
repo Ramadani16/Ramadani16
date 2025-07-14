@@ -50,7 +50,9 @@ I specialize in technologies like **Laravel** & **Node.js**, and take pride in c
 <div align="center">
   <a href="https://github.com/Ramadani16">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramadani16&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-   <img height="180em" src="https://github-streak-stats.demolab.com/?user=Ramadani16&theme=dark&random=1" alt="GitHub Streak"/>
+  <div align="center">
+  <img height="180em" src="https://github-streak-stats.demolab.com/?user=Ramadani16&theme=dark&date_format=j%20M%5B%20Y%5D&random=123" alt="Streak"/>
+</div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadani16&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
   </a>
 </div>
