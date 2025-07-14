@@ -63,7 +63,7 @@ I specialize in technologies like **Laravel** & **Node.js**, and take pride in c
   &border=FFD70030
   &date_format=j+M[+Y]" 
   alt="GitHub Streak"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadani16&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Ramadani16&theme=holi-theme" alt="Top Languages"/>
   </a>
 </div>
 
